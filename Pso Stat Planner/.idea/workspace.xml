@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19592993-ec0e-458c-8ad6-e85397cca535" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xNrgqI1pUpyKjtuIDWirssggia" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../te-curriculum-part-time-apr-2022-main/java/module-2/week-5" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Model" />
+      <recent name="StatCalculator.Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConsoleSupportTest.mag_input_rejected_if_not_enough_lvls_left">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatCalculator.App" />
+      <module name="Pso Stat Planner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StatCalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleSupportTest.mag_input_rejected_if_no_lvls_left" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pso Stat Planner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="View" />
+      <option name="MAIN_CLASS_NAME" value="View.ConsoleSupportTest" />
+      <option name="METHOD_NAME" value="mag_input_rejected_if_no_lvls_left" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleSupportTest.mag_input_rejected_if_not_enough_lvls_left" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pso Stat Planner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="View" />
+      <option name="MAIN_CLASS_NAME" value="View.ConsoleSupportTest" />
+      <option name="METHOD_NAME" value="mag_input_rejected_if_not_enough_lvls_left" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleSupportTest.mat_input_rejected_if_no_points_left" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pso Stat Planner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="View" />
+      <option name="MAIN_CLASS_NAME" value="View.ConsoleSupportTest" />
+      <option name="METHOD_NAME" value="mat_input_rejected_if_no_points_left" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleSupportTest.menu_redisplays_if_junk_input" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pso Stat Planner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="View" />
+      <option name="MAIN_CLASS_NAME" value="View.ConsoleSupportTest" />
+      <option name="METHOD_NAME" value="menu_redisplays_if_junk_input" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConsoleSupportTest.mag_input_rejected_if_not_enough_lvls_left" />
+        <item itemvalue="JUnit.ConsoleSupportTest.mag_input_rejected_if_no_lvls_left" />
+        <item itemvalue="JUnit.ConsoleSupportTest.mat_input_rejected_if_no_points_left" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.ConsoleSupportTest.menu_redisplays_if_junk_input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19592993-ec0e-458c-8ad6-e85397cca535" name="Default Changelist" comment="" />
+      <created>1630206501071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630206501071</updated>
+    </task>
+    <servers />
+  </component>
+</project>
