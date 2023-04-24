@@ -10,6 +10,7 @@ The program uses inheritance to change the base and maximum stats based on what 
 strict limits, like androids not being able to get mind strength (they can't use magic!);
 The program also does not allow you to select more material or mag points than you have left, though you can reset those values
 if you choose to start over.
+And of course, material points are different for androids than humans, and so inheritance morphs those values when the character selection changes!
 
 Encapsilation was essential to helping store and retrieve the various attributes that are specific to that character,
 whether their current equipped unit, or current material points spent.
